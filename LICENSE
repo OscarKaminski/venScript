@@ -1,4 +1,6 @@
-MIT License
+Revisable Free Use License (0.1)
+
+This license is a derivative of the MIT License (https://opensource.org/licenses/MIT)
 
 Copyright (c) 2025 Oscar Kamiński
 
@@ -11,6 +13,12 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+Subject to the terms of this license, the copyright holder grants a non-exclusive,
+non-transferable license to use, copy, and modify the Software. The copyright
+holder reserves the right to revoke or modify this license at any time. Any such
+modification or revocation shall apply uniformly to all recipients of the Software,
+past or present.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
